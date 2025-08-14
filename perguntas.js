@@ -18,5 +18,5 @@ criaCartao(
     criaCartao(
     'matematica',
     'Um anel tem 3 pedras preciosas. Quantas pedras preciosas têm 11 anéis?',
-    'Sâo 33 anéis'
+    'São 33 anéis'
 )
