@@ -1,13 +1,13 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'História',
+    'Quem criou a lâmpada?',
+    'Foi Thomas Edison'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Sociologia',
+    'Quem criou a lei do uso e desuso?',
+    'Quem criou foi Jean-Baptiste Lamarck'
 )
 
 criaCartao(
@@ -16,7 +16,7 @@ criaCartao(
     'Uma função é um bloco de código que executa alguma tarefa'
 )
     criaCartao(
-    'Lingua inglesa',
-    'Como se diz OI em inglês?',
+    'Foi Thomas Edison',
+    'Quem criou o Jean-Baptiste Lamarck',
     'Oi em ingles é HI (RAI)'
 )
