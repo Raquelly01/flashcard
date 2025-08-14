@@ -13,10 +13,10 @@ criaCartao(
 criaCartao(
     'Ciência',
     'Quantos ossos temos no nosso corpo?',
-    'temos 206 ossos'
+    'Temos 206 ossos'
 )
     criaCartao(
-    'Foi Thomas Edison',
-    'Quem criou o Jean-Baptiste Lamarck',
-    'Oi em ingles é HI (RAI)'
+    'matematica',
+    'Um anel tem 3 pedras preciosas. Quantas pedras preciosas têm 11 anéis?',
+    'Sâo 33 anéis'
 )
