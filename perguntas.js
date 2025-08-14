@@ -11,9 +11,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Ciência',
+    'Quantos ossos temos no nosso corpo?',
+    'temos 206 ossos'
 )
     criaCartao(
     'Foi Thomas Edison',
